@@ -1,6 +1,6 @@
 {
   "name": "bozosort",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Bozo sort algorithm.",
   "license": "MIT",
   "repository": "vinimdocarmo/node-bozosort",
