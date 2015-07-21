@@ -1,0 +1,27 @@
+{
+  "name": "bozosort",
+  "version": "0.0.0",
+  "description": "Bozo sort algorithm.",
+  "license": "MIT",
+  "repository": "vinimdocarmo/node-bozosort",
+  "author": {
+    "name": "Vinícius do Carmo",
+    "email": "vinicius.m.do.carmo@gmail.com",
+    "url": "vinimdocarmo.js.org"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
