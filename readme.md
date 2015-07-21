@@ -4,6 +4,8 @@ For those who don't know, a Bozo Sort is a joke sorting algorithm that actually 
 
 **Note**: Do not use it in production, unless you're a bozo.
 
+![bozo clown](http://blog.syracuse.com/news/2008/07/medium_Bozo.JPG)
+
 ## Install
 
 ```
